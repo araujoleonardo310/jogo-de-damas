@@ -1,4 +1,4 @@
-<h1>Projeto Tabuleiro de damas 💻😉</h1>
+<h1>Projeto Jogo de Damas 💻😉</h1>
 
 <img src="notas/jogo-dama.png">
 
@@ -32,8 +32,8 @@
 
 ## 🐧🖖 Créditos & 🔗 Refências 
 
-[Wikipédia: Damas](https://pt.wikipedia.org/wiki/Damas)
-[Imagem refência de construção do projeto](https://pt.wikipedia.org/wiki/Damas#/media/Ficheiro:International_draughts.jpg)
+[Wikipédia: Damas](https://pt.wikipedia.org/wiki/Damas)<br>
+[Imagem refência de construção do projeto](https://pt.wikipedia.org/wiki/Damas#/media/Ficheiro:International_draughts.jpg)<br>
 [IMAGECOLORPICKER.com](https://imagecolorpicker.com/pt-pt)
 
 
