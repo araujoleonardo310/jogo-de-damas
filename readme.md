@@ -1,6 +1,6 @@
 <h1>Projeto Jogo de Damas 💻😉</h1>
 
-<img src="https://i.imgur.com/iTgSgs7.mp4">
+<img src="src/ezgif.com-gif-maker.gif">
 
 <a href="https://araujoleonardo310.github.io/jogo-de-damas/">🔗Clieque aqui!</a>
 
