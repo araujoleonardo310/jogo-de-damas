@@ -19,7 +19,7 @@
 * Visual Studio Code<br>
 * Html<br>
 * CSS<br>
-* Seletor de cores(imagens online)
+* Seletor de cores (imagens online)
 
 ## O quê aprendi 🧑‍💻
 
