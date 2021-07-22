@@ -2,11 +2,11 @@
 
 <img src="src/ezgif.com-gif-maker.gif">
 
-<a href="https://araujoleonardo310.github.io/jogo-de-damas/">🔗Clieque aqui!</a>
+<a href="https://araujoleonardo310.github.io/jogo-de-damas/">🔗Clique aqui!</a>
 
 ## Sobre
 
-> Este é um projeto de **desafio** :cartwheeling: e **inspiração** 🤩 para recriar o Jogo de damas com  **HTML** e **CSS**.
+> Este é um projeto de **desafio** :cartwheeling: e **inspiração** 🤩, recriei o Jogo de Damas com  **HTML** e **CSS**.
 
 ## Status ✌️
 
@@ -18,30 +18,34 @@
 * Github<br>
 * Visual Studio Code<br>
 * Html<br>
-* CSS
-* Seletor de cores de imagens online
+* CSS<br>
+* Seletor de cores(imagens online)
 
 ## O quê aprendi 🧑‍💻
 
-* Posicionamento de elementos
-* Sequência e lógica das linhas
-* Análise e captura de cores da imagem refência
-* Noções de espaçamento de elementos
-* Noções de alinhamento de elementos
-* Noções de distanciamento entre elementos
+- Posicionamento de elementos
+- Sequência e lógica de elementos no corpo da página
+- Classes
+- Divs
+- Análise e captura de cores a partir de uma imagem
+- Noções de espaçamento entre elementos (margin)
+- Noções de alinhamento entre elementos(Width e Height)
+
 
 ## 🐧🖖 Créditos & 🔗 Refências 
 
-[Wikipédia: Damas](https://pt.wikipedia.org/wiki/Damas)<br>
-[Imagem refência de construção do projeto](https://pt.wikipedia.org/wiki/Damas#/media/Ficheiro:International_draughts.jpg)<br>
-[IMAGECOLORPICKER.com](https://imagecolorpicker.com/pt-pt)
+Wikipédia: [Jogo de Damas](https://pt.wikipedia.org/wiki/Damas)<br>
+Imagem referência [Jogo de Damas](https://pt.wikipedia.org/wiki/Damas#/media/Ficheiro:International_draughts.jpg)<br>
+IMAGECOLORPICKER - [Saiba mais!](https://imagecolorpicker.com/pt-pt)
 
 
 ## Autor do projeto 👊
+<br>
 
 ### Leonardo Araújo <br>
-**Universiário 🧑‍🎓 de Sistemas de Informação 💻**
+**Universitário 🧑‍🎓 de Sistemas de Informação 💻**
 <hr>
+<br>
 
 ***"Se você tiver disposição de aprender e tentar então, seu sucesso está definido! ✨"*** 
 
