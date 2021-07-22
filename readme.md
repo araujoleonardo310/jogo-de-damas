@@ -6,7 +6,7 @@
 
 ## Sobre
 
-> Este é um projeto de **desafio** :cartwheeling: e **inspiração** 🤩, recriei o Jogo de Damas com  **HTML** e **CSS**.
+> Este é um projeto de **desafio** e **inspiração** 🤩 <br> Recriei o Jogo de Damas com  **HTML** e **CSS**.
 
 ## Status ✌️
 
