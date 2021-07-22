@@ -32,7 +32,7 @@
 - Noções de alinhamento entre elementos(Width e Height)
 
 
-## 🐧🖖 Créditos & 🔗 Refências 
+## 🐧🖖 Créditos & 🔗 Referências 
 
 Wikipédia: [Jogo de Damas](https://pt.wikipedia.org/wiki/Damas)<br>
 Imagem referência [Jogo de Damas](https://pt.wikipedia.org/wiki/Damas#/media/Ficheiro:International_draughts.jpg)<br>
