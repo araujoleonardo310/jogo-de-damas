@@ -6,7 +6,7 @@
 
 ## Sobre
 
-> Este é um projeto de **desafio** e **inspiração** 🤩 <br> Recriei o Jogo de Damas com  **HTML** e **CSS**.
+> Decidi recriar verão page do tabuleiro do Jogo de Damas. Foi desenvolvido por inspiração, desafio e muito respeito, porque amava brincar nesse jogo. Percebo que este jogo proporcionou-me ser alguém calmo, estrategista, persistente e, também criativo com jogadas e blefes (rsrs).
 
 ## Status ✌️
 
